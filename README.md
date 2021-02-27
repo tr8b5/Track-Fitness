@@ -11,7 +11,7 @@ This application lets users track their daily workouts. A Mongo database is used
 
 ## Link to Deployed Site
 
-https://warm-falls-63193.herokuapp.com/
+https://glacial-headland-04432.herokuapp.com/
 
 ## Table Of Contents
 
@@ -41,7 +41,7 @@ This project is license under the MIT license.
 
 [License](https://opensource.org/licenses/MIT)
 
-Copyright 2021 ItsJustIkenna
+Copyright 2021 William Miller
 
     Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
     
@@ -61,5 +61,5 @@ To run tests, you need to run the following command: none
 
 ## Questions
 
-If you have any questions about the repo, please reach out to my email at ikenna.nwagbara@gmail.com.
+If you have any questions about the repo, please reach out to my email at williamhmiller12@gmail.com.
 
