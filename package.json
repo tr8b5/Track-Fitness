@@ -2,7 +2,7 @@
   "name": "Track-Fitness",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/tr8b5/Track-Fitness/issues"
   },
-  "homepage": "https://github.com/tr8b5/Track-Fitness#readme"
+  "homepage": "https://github.com/tr8b5/Track-Fitness#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.18",
+    "morgan": "^1.10.0"
+  }
 }
