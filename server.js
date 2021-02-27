@@ -11,7 +11,7 @@ app.use(express.json());
 app.use(express.static("public"));
 
 mongoose.connect(
-    process.env.MONGODB_URI || "mongodb://localhost/fitness-tracker_db",
+    process.env.MONGODB_URI || "mongodb://localhost/fitness_db",
     {
       useNewUrlParser: true,
       useUnifiedTopology: true,
@@ -20,7 +20,6 @@ mongoose.connect(
     }
   );
   
-  //routes
   const APIroutes = require("./routes/api");
   const HTMLroutes = require("./routes/html-routes");
   
